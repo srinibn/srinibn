@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srinivas Bommakanti
+- 👋 Hi, I’m Srinivas
 - 👀 I’m interested in Developing Selenium Automation Framework's using different tools, languages and integration with cloud platform. 
 - 🌱 I’m currently learning Cloud integration with Microsoft Azure platform
 - 💞️ I’m looking to collaborate with teams, Who need a help in developing Selenium framework.

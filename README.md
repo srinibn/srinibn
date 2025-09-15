@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Srinivas
-- 👀 I’m interested in Developing Selenium Automation Framework's using different tools, languages and integration with cloud platform. 
-- 🌱 I’m currently learning Cloud integration with Microsoft Azure platform
+- 👀 I’m interested in Developing Automation Framework's using different tools, languages and integration with cloud platform. 
 - 💞️ I’m looking to collaborate with teams, Who need a help in developing Selenium framework.
 - 📫 Reach me out for help, by just emailing your details for help on srinivasbommakanti225@gmail.com
 
